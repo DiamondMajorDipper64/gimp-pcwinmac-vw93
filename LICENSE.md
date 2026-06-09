@@ -1,4 +1,4 @@
-# 
+# Automático GIMP filtros para Mac OS | Instantâneo GIMP filtros para PC Windows. Com ferramenta borrar e ferramenta caneta — otimizado para máximo desempenho em cada plataforma.
 
 
 
